@@ -13,5 +13,3 @@ __pycache__
 
 # datasets
 *.zip
-data
-FashionMNIST
