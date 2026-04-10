@@ -65,10 +65,10 @@
 11. descr - string, описание компании с dreamjob
 
 # Признаки bigtech рейтинга
-1. rating - int
-2. market - string
-3. revenue - float
-4. growth - string
+1. rating - int, место в рейтинг топ-100 компаний России
+2. market - string, рынки на к-х работает компания
+3. revenue - float, выручка за 2024 год (млн руб)
+4. growth - string, прирост выручки 2024/2022, %
 5. market_num - кол-во рынков
 
 # Логирование
