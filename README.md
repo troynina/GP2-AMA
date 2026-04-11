@@ -98,6 +98,9 @@ Wordstat API:
 2) Документация о работе с Yutube API: https://vtemah.livejournal.com/1474650.html 
 3) Метрика интересности видео: https://habr.com/ru/companies/vdsina/articles/533080/ 
 
+#### Dreamjob
+1) Официальная страница с карточками: https://dreamjob.ru/categories 
+
 #### Wordstat API
 1) Аккаунт для привязки API ключа: https://center.yandex.cloud/billing/accounts/dn2zptmz7g77hvyuwgea/overview
 2) Создание лицевого счета: https://yandex.cloud/ru/docs/billing/concepts/personal-account 
